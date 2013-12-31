@@ -1,0 +1,9 @@
+AWS_ACCESS_KEY_ID = ""
+AWS_SECRET_ACCESS_KEY = ""
+REGION = "us-west-2"
+SES_REGION = "us-east-1"
+KEEP_DAYS = 30
+EMAIL_SUBJECT = "AWS Backup"
+SENDER = "it@citymd.com"
+RECEIVER = "rflorescu@citymd.com"
+LOG_FILE = "/home/skang/aws_backup/backup.log"
